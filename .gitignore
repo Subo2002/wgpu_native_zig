@@ -3,3 +3,4 @@ zig-cache/
 zig-out/
 examples/output/
 NOTES.md
+zig-pkg
